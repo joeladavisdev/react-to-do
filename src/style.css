@@ -1,4 +1,5 @@
-display: flex;
+#root {
+    display: flex;
 justify-content: center;
 color: #00CB78;
 font-family: sans-serif;
@@ -23,7 +24,7 @@ padding-bottom: 60px;
 border-radius: 10px;
 outline: none;
 border: none;
-padding: .75px;
+padding: .75em;
 }
 .todo-item {
 display: flex;
